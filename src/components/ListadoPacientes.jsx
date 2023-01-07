@@ -1,7 +1,7 @@
 import { Pacientes } from "./Pacientes"
 
 
-Pacientes
+
 
 export const ListadoPacientes = ({pacientes, setPaciente, eliminarPaciente}) => {
 
